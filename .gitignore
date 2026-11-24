@@ -1,0 +1,15 @@
+.vs/
+x64/
+Debug/
+Release/
+*.tlog
+*.log
+*.pdb
+*.ilk
+*.suo
+*.recipe
+*.obj
+*.slnx
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
